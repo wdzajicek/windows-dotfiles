@@ -1,0 +1,14 @@
+seniorjekyll () {
+  cd ~/repositories/juniorviewbook-2016
+  echo '...'
+  echo '. . .'
+  open -a Google\ Chrome http://localhost:4000
+}
+
+fastpath () {
+  open -a Finder ~/repositories/kcc_fast_path && open -a Finder ~/repositories/kcc_fast_path/Fast-Path-booklet_2017-Final
+}
+
+jekyll-fastpath () {
+  open -a Finder ~/repositories/jekyll-kcc-fastpath && open -a Atom -n ~/repositories/jekyll-kcc-fastpath &&  open -a Atom ~
+}

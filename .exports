@@ -1,0 +1,8 @@
+export PATH='/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin':"$PATH"
+
+zpath="/home/linuxbrew/.linuxbrew/etc/profile.d/z.sh"
+
+export PATH='/bin:/sbin':"$PATH"
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
