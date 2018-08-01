@@ -3,7 +3,7 @@
 These are my working Windows PC dotfiles that have never been touched by anything Windowsey
 
 ### \*\* **Never touch linux subsystem files with Windowsey software/processes or BAD things will happen (just keep Windows out)** \*\*
-***Disclaimer: By using these files or following my documentation you acknowledge the risk involved. I take no responsibility and will not be held liable for software damage, hardware damage, or any other resulting damage to your computer.***
+***Disclaimer: By using these files or following my documentation you acknowledge the risk involved. I take no responsibility and will not be held liable for software damage, hardware damage, or any other resulting damage to the device you use these dotfiles, or instructions, on.***
 
 This all sounds very scary, but I have never had an issue with corrupting my Linux Subsystem. &mdash; That being said, I have always been very anal about only using a bash instance in my terminal to do anything in the Linux Subsystem.
 
