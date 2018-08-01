@@ -8,4 +8,4 @@
 
 These are my working Windows PC dotfiles that have never been touched by anything Windowsey
 
-If you don't know what this means or what your doing...just don't do it.
+If you don't know what this means or what your doing...just don't do it..
