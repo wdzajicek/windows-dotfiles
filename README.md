@@ -9,7 +9,7 @@ This all sounds very scary, but I have never had an issue with corrupting my Lin
 
 <hr>
 
-**For in-depth Instructions and documentation on installing dotfiles on Windows go to the my [Windows Development Page - Dotfiles](https://wdzajicek.github.io/portfolio/windows-dev.html#dotfiles)**
+**For in-depth Instructions and documentation on installing dotfiles on Windows go to my [Windows Development - Dotfiles](https://wdzajicek.github.io/portfolio/windows-dev.html#dotfiles) page.**
 
 ***Documentation on how I set up my Windows dev environment is also available on my [Windows Development Page](https://wdzajicek.github.io/portfolio/windows-dev.html)***
 
@@ -17,7 +17,7 @@ This all sounds very scary, but I have never had an issue with corrupting my Lin
 
 <br>
 
-##### The Consequences of Getting it Wrong:
+#### The Consequences of Getting it Wrong:
 
 >Doing something as simple as using your Windows File Explorer to look in your Linux ~/home directory (or anywhere in the Linux subsystem) will most likely cause Windows to take a dump in Linux&mdash;corrupting it and potentially turning your computer into a paperweight.
 >
@@ -34,4 +34,4 @@ This all sounds very scary, but I have never had an issue with corrupting my Lin
 
 <br>
 
-If you don't know what this means or what your doing...just don't do it...
+If you don't know what this means or what your doing ... just don't do it ...
